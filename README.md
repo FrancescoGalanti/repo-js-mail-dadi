@@ -1,1 +1,1 @@
-repo js-mail-dadi
+js-pwdgen-wannabe
